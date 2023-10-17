@@ -1,3 +1,3 @@
 # Nba-Market-Analysis
 
-Project regarding the Analysis of the main factors the contribute to the growth of the Nba Players' salaries over the year, throught the employment of growth models and classical statistical tools.
+Project regarding the analysis of the main factors that contribute to the growth of the NBA players' salaries over the year, through the employment of growth models and classical statistical tools.
